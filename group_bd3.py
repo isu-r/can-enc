@@ -14,7 +14,7 @@ g = 2     # Generator
 
 # --- Predefined acceptable MAC addresses and corresponding identities ---
 ACCEPTED_MACS = {
-    "00:0c:29:bd:61:6b": "A",
+    "00:0C:29:BD:61:6B": "A",
     "AA:BB:CC:DD:EE:02": "B",
     "AA:BB:CC:DD:EE:03": "C"
 }
