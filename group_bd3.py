@@ -14,7 +14,7 @@ g = 2     # Generator
 
 # --- Predefined acceptable MAC addresses and corresponding identities ---
 ACCEPTED_MACS = {
-    "00:50:56:C0:00:02": "A",
+    "00:0c:29:bd:61:6b": "A",
     "AA:BB:CC:DD:EE:02": "B",
     "AA:BB:CC:DD:EE:03": "C"
 }
@@ -122,3 +122,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
